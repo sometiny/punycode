@@ -1,0 +1,13 @@
+﻿{
+	"name" : "punycode",
+	"version" : "1.0.0",
+	"description" : "Punycode编码/解码的实现。",
+	"keywords" : ["punycode","domain"],
+	"license" : "GPLv3",
+	"author" : 
+	{
+		"name" : "anlige",
+		"email" : "zhanghuiguoanlige@126.com"
+	},
+	"main" : "index.js"
+}
