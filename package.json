@@ -1,5 +1,5 @@
 ﻿{
-	"name" : "@cook-code-jazor/punycode",
+	"name" : "cook-code-jazor-punycode",
 	"version" : "1.0.0",
 	"description" : "Punycode编码/解码的实现。",
 	"keywords" : ["punycode","domain"],
