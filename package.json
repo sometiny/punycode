@@ -1,12 +1,16 @@
 ﻿{
 	"name" : "jazor-punycode",
-	"version" : "1.0.0",
+	"version" : "1.0.1",
 	"description" : "Punycode编码/解码的实现。",
 	"keywords" : ["punycode","domain"],
 	"author" : 
 	{
 		"name" : "anlige",
 		"email" : "zhanghuiguoanlige@126.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/cook-code-jazor/punycode.git"
 	},
 	"main" : "index.js"
 }
